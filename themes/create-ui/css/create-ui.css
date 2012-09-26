@@ -955,6 +955,8 @@ div.halloEditIndicator {
 .inlineImage-left, .inlineImage-right, .inlineImage-middle {
     margin: 5px;
     left: 0;
+    max-width: 250px;
+    max-height: 250px;
 }
 .inlineImage-left {
     float: left;
